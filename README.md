@@ -19,6 +19,10 @@ These are the companies that we have the knowledge directly or indirectly that a
 | [:earth_africa:](https://www.present-technologies.com) Present Technologies | Large-scale digital platforms to market-leading mobile apps | `Coimbra` |
 | [:earth_africa:](https://sdoconsulting.pt/) SDO Consulting | Management consulting firm | `Lisboa` |
 
+## Sources
+
+These companies are listed here because they have been shared their offer in known portuguese recruting websites, or they have share on social media, or directly with Flutter Portugal community. They have offers for full Flutter developer or a mixed Android/iOS + Flutter developer.
+
 ## Contact us
 
 For more information contact info[at]flutter[.]pt or join the discussion at chat[.]flutter[.]pt
