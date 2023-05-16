@@ -28,6 +28,7 @@ These are the companies that we have the knowledge directly or indirectly that a
 | [:earth_africa:](https://www.catenon-pt.com/) Catenon Portugal | IT Services and IT Consulting | `Lisboa` |
 | [:earth_africa:](https://www.experis.com/) Experis | Staffing and Recruiting | `Lisboa` |
 | [:earth_africa:](https://www.visualnuts.com/) Visual Nuts | IT Services and IT Consulting | `Lisboa` |
+| [:earth_africa:](https://carreiras.quintoandar.com.br/) Quinto Andar | Technology, Information and Internet | `Lisboa` |
 
 ## Sources
 
