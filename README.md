@@ -4,10 +4,6 @@ These are the companies that we have the knowledge directly or indirectly that a
 
 **Pull requests** are welcome to amend, add, remove, or update information here added.
 
-## From our sponsor
-
-- [Dengun](https://www.dengun.com/en/) - [jobs](https://www.dengun.com/en/jobs/), Digital Agency with a simple objective: make your business stand out from the crowd
-
 ## Portuguese Companies
 
 | Company       | Description       | Location  |
