@@ -27,7 +27,7 @@ These are the companies that we have the knowledge directly or indirectly that a
 | [:earth_africa:](https://carreiras.quintoandar.com.br/) Quinto Andar | Technology, Information and Internet | `Lisboa` |
 | [:earth_africa:](https://verticaresystems.com/) VertiCare Systems | IT Services and IT Consulting | `Porto` |
 | [:earth_africa:](https://www.airc.pt/) AIRC | Software Development | `Coimbra` |
-
+| [:earth_africa:](https://www.evpconnect.pt/) EVPConnect | IT Services and IT Consulting | `Lisboa` |
 
 ## Sources
 
