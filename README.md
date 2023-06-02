@@ -30,8 +30,6 @@ These are the companies that we have the knowledge directly or indirectly that a
 | [:earth_africa: GRiT Solutions](https://gritsolutions.pt/) | IT Services and IT Consulting | `Lisboa` |
 | [:earth_africa: Decode](https://www.decode.pt/) | IT Services and IT Consulting | `Lisboa` |
 
-https://www.decode.pt/
-
 ## Sources
 
 These companies are listed here because they have been shared their offer in known portuguese recruting websites, or they have share on social media, or directly with Flutter Portugal community.
