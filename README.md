@@ -27,6 +27,7 @@ These are the companies that we have the knowledge directly or indirectly that a
 | [:earth_africa: Quinto Andar](https://carreiras.quintoandar.com.br/) | Technology, Information and Internet | `Lisboa` |
 | [:earth_africa: VertiCare Systems](https://verticaresystems.com/) | IT Services and IT Consulting | `Porto` |
 | [:earth_africa: AIRC](https://www.airc.pt/) | Software Development | `Coimbra` |
+| [:earth_africa: GRiT Solutions](https://gritsolutions.pt/) | IT Services and IT Consulting | `Lisboa` |
 
 
 ## Sources
