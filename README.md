@@ -36,7 +36,7 @@ These companies are listed here because they have been shared their offer in kno
 
 ## Contact us
 
-For more information contact info[at]flutter[.]pt or join the discussion at chat[.]flutter[.]pt
+For more information, join the discussion at chat[.]flutter[.]pt .
 
 ## Disclosure
 
