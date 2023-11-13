@@ -29,6 +29,7 @@ These are the companies that we have the knowledge directly or indirectly that a
 | [:earth_africa: AIRC](https://www.airc.pt/) | Software Development | [LinkedIn](https://www.linkedin.com/company/airc/) | `Coimbra` |
 | [:earth_africa: GRiT Solutions](https://gritsolutions.pt/) | IT Services and IT Consulting | [LinkedIn](https://www.linkedin.com/company/gritsolutions/) | `Lisboa` |
 | [:earth_africa: Decode](https://www.decode.pt/) | IT Services and IT Consulting | [LinkedIn](https://www.linkedin.com/company/decode-advertising/) | `Lisboa` |
+| [:earth_africa: OneFootball](https://company.onefootball.com/) | World’s #1 Digital Football Platform | [LinkedIn](https://www.linkedin.com/company/onefootball/) | `Portugal (Remote)` |
 
 ## Sources
 
